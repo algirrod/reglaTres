@@ -1,2 +1,2 @@
 <?php
-$msg='uno';
+$msg='unodos';
